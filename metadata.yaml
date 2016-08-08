@@ -1,0 +1,33 @@
+_repo: Twelve-Studies-on-the-Making-of-a-Nation--13-The-Beginnings-of-Israel-s-History_12434
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jenks, Jeremiah Whipple
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '4579'
+    url: http://www.gutenberg.org/2009/agents/4579
+    wikipedia: http://en.wikipedia.org/wiki/Jeremiah_Jenks
+  - agent_name: Kent, Charles Foster
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '2806'
+    url: http://www.gutenberg.org/2009/agents/2806
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- Judaism
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Jews -- History'
+- GITenberg
+title: 'Twelve Studies on the Making of a Nation: The Beginnings of Israel''s History'
+url: http://www.gutenberg.org/ebooks/12434
